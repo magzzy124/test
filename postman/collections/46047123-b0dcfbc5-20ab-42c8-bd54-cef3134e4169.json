@@ -168,6 +168,18 @@
 				}
 			],
 			"id": "46047123-7d932885-0ecd-46ed-a2d5-caf1926e5dec"
+		},
+		{
+			"name": "dasd",
+			"id": "46047123-0f019283-1fe7-4161-bc7b-b93b90e0c22c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
