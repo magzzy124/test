@@ -147,6 +147,18 @@
 							"body": "{\r\n    \"hi\":\"hi\"\r\n}"
 						}
 					]
+				},
+				{
+					"name": "test2",
+					"id": "40703263-65874818-0b21-455a-85bf-97f05b2f4791",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
 				}
 			],
 			"id": "40703263-af2e767e-100e-41c6-8c1f-b88b8a11eda1"
